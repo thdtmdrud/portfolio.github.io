@@ -81,7 +81,7 @@
   main{
     display: flex;
     flex-direction: column;
-    margin-top: 100px;
+    margin-top: 60px;
   }
 
   section{
@@ -93,8 +93,8 @@
   }
 
   main>section>img{
-    width: 220px;
-    margin-bottom: 30px;
+    width: 420px;
+    margin-bottom: 10px;
   }
 
   main>section>p{
